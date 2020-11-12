@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BlackNetCat/eDuty/static/css/main.b072d187.chunk.css",
+    "main.js": "/BlackNetCat/eDuty/static/js/main.ee184628.chunk.js",
+    "main.js.map": "/BlackNetCat/eDuty/static/js/main.ee184628.chunk.js.map",
+    "runtime-main.js": "/BlackNetCat/eDuty/static/js/runtime-main.8ec35ae4.js",
+    "runtime-main.js.map": "/BlackNetCat/eDuty/static/js/runtime-main.8ec35ae4.js.map",
+    "static/js/2.330e756e.chunk.js": "/BlackNetCat/eDuty/static/js/2.330e756e.chunk.js",
+    "static/js/2.330e756e.chunk.js.map": "/BlackNetCat/eDuty/static/js/2.330e756e.chunk.js.map",
+    "index.html": "/BlackNetCat/eDuty/index.html",
+    "static/css/main.b072d187.chunk.css.map": "/BlackNetCat/eDuty/static/css/main.b072d187.chunk.css.map",
+    "static/js/2.330e756e.chunk.js.LICENSE.txt": "/BlackNetCat/eDuty/static/js/2.330e756e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ec35ae4.js",
+    "static/js/2.330e756e.chunk.js",
+    "static/css/main.b072d187.chunk.css",
+    "static/js/main.ee184628.chunk.js"
+  ]
+}
