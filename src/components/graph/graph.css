@@ -1,0 +1,33 @@
+.graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.graph-day-container {
+    width: 500px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.box {
+    display: flex;   
+    flex-direction: row;    
+}
+
+#date {
+    text-align: center;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.fromTo {
+    margin: 10px;
+}
+
